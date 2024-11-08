@@ -1,1 +1,2 @@
 # Equipo-Volley
+Este proyecto tiene la finalidad de poder registrar a los jugadores de un equipo de volleyball, se registrarán a 14 jugadores de un equipo, se registrarán las posiciones de cada jugadores, los puntos que generan, los bloqueos que logran, cuantos balones reciben y cuantos saques llegan a fallar. Con estos datos podremos determinar el porcentaje de efectividad del jugador y con toda esta información poder formar el cuadro ideal.
